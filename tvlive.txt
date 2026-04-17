@@ -31,6 +31,7 @@
 翡翠台2,http://74.91.26.218:82/live/j2.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 翡翠台1,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8?key=txiptv
 内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/1.m3u8
 宁夏卫视,http://39.134.66.66/PLTV/88888888/224/3221225579/1.m3u8
